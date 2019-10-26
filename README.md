@@ -3,6 +3,8 @@ IT词汇中文解析
 
 ## AI
 
+Unsupervised Learning --无监督学习
+
 SVM （Support Vector Machine） --支持向量机（是一种分类的算法）
 
 Vector --向量
